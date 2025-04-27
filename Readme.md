@@ -1,4 +1,18 @@
-#Infraestrutura como Código
+Infraestrutura como Código - Projeto
 
-Scripts para criação de usuários, grupos, diretórios e permissões no Linux de forma automática.
-Feito para fins de aprendizado de Shell Script e Infraestrutura como Código (IaC).
+Este projeto contém dois scripts de automação para criação de usuários, grupos, diretórios e configuração de permissões no Linux, utilizando práticas de Infraestrutura como Código (IaC).
+
+Pré-requisitos
+Sistema Linux
+
+Permissões de administrador (root ou sudo)
+
+Scripts
+cria_estrutura.sh: Criação de diretórios, grupos e usuários de departamentos.
+
+cria_usuarios_convidados.sh: Criação de usuários convidados.
+
+Tecnologias utilizadas
+Linux
+
+Shell Script
